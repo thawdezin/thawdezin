@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 </details>
 
-[website]: https://www.thawdezin.github.io
+[website]: https://thawdezin.github.io/
 [twitter]: https://twitter.com/thawdezin25
 [youtube]: https://www.youtube.com/channel/UCN0306tbhprpXRR36hUccOQ
 [instagram]: https://instagram.com/thawdezin
