@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **thawdezin/thawdezin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,17 +12,17 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on no one. 😢
 - 🌱 I’m currently learning Flutter and Swift. 🐣🔰🍼
-- 👯 I’m looking to collaborate with no one else. 😬
-- 🤔 I’m looking for help with Future Life. ☸️✝️☪️
+- 👯 I’m looking to collaborate with no one. 😬
+- 🤔 I’m looking for help about Future Life. ☸️✝️☪️
 - 💬 Ask me about everything
 - 📫 How to reach me: (+95)9-953-172-742
 - ⚡ Fun fact: I love C++ 😂😂😂
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Do you wanna know?
 
 
-### Spotify Playing 🎧
+### Music Playing 🎧
 
-[<img src="https://cdn.ontourmedia.io/gunsnroses/site_v2/animations/gnr_loop_logo_01.jpg" alt="Guns N' Roses - November Rain Playing" width="350" />](https://www.youtube.com/watch?v=8SbUC-UaAxE&ab_channel=GunsNRosesVEVO)
+[<img src="https://revistapym.com.co/wp-content/uploads/2016/11/guns_and_roses_historia_logo.png" alt="Guns N' Roses - November Rain Playing" width="350" />](https://www.youtube.com/watch?v=8SbUC-UaAxE&ab_channel=GunsNRosesVEVO)
 
 ### Connect with me:
 
