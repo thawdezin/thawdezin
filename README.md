@@ -5,12 +5,47 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
+
+### Hi there, I'm [Thaw De Zin][website] 👋
+
+## I'm Mobile Developer.
+
+- 🔭 I’m currently working on no one. 😢
+- 🌱 I’m currently learning Flutter and Swift. 🐣🔰🍼
+- 👯 I’m looking to collaborate with no one else. 😬
+- 🤔 I’m looking for help with Future Life. ☸️✝️☪️
+- 💬 Ask me about everything
+- 📫 How to reach me: (+95)9-953-172-742
+- ⚡ Fun fact: I love C++ 😂😂😂
+- 🥅 2020 Goals: Contribute more to Open Source projects
+
+
+### Spotify Playing 🎧
+
+[<img src="https://cdn.ontourmedia.io/gunsnroses/site_v2/animations/gnr_loop_logo_01.jpg" alt="Guns N' Roses - November Rain Playing" width="350" />](https://www.youtube.com/watch?v=8SbUC-UaAxE&ab_channel=GunsNRosesVEVO)
+
+### Connect with me:
+
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Thaw De Zin | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Thaw De Zin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Thaw De Zin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Thaw De Zin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Thaw De Zin's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=thawdezin&show_icons=true&hide_border=true" />
+
+</details>
+
+[website]: https://www.thawdezin.github.io
+[twitter]: https://twitter.com/thawdezin25
+[youtube]: https://www.youtube.com/channel/UCN0306tbhprpXRR36hUccOQ
+[instagram]: https://instagram.com/thawdezin
+[linkedin]: https://linkedin.com/in/thawdezin
