@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 ## I'm Mobile Developer.
 
-- 🔭 I’m currently working on no one. 😢
+- 🔭 I'm currently working on no project. 😢
 - 🌱 I’m currently learning Flutter and Swift. 🐣🔰🍼
 - 👯 I’m looking to collaborate with no one. 😬
 - 🤔 I’m looking for help about Future Life. ☸️✝️☪️
@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 - 🥅 2021 Goals: Do you wanna know?
 
 
-### Music Playing 🎧
+### Now Playing 🎧
 
 [<img src="https://revistapym.com.co/wp-content/uploads/2016/11/guns_and_roses_historia_logo.png" alt="Guns N' Roses - November Rain Playing" width="350" />](https://www.youtube.com/watch?v=8SbUC-UaAxE&ab_channel=GunsNRosesVEVO)
+
 
 ### Connect with me:
 
@@ -33,7 +34,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="Thaw De Zin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
----
 
 <details>
   <summary>:zap: GitHub Stats</summary>
