@@ -12,9 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently working on no project. 😢
 - 🌱 I’m currently learning Flutter and Swift. 🐣🔰🍼
-- 👯 I’m looking to collaborate with no one. 😬
 - 🤔 I’m looking for help about Future Life. ☸️✝️☪️
-- 💬 Ask me about everything
 - 📫 How to reach me: (+95)9-953-172-742
 - ⚡ Fun fact: I love C++ 😂😂😂
 - 🥅 2021 Goals: Do you wanna know?
