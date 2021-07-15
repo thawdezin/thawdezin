@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### Now Playing 🎧
 
-[<img src="https://revistapym.com.co/wp-content/uploads/2016/11/guns_and_roses_historia_logo.png" alt="Guns N' Roses - November Rain Playing" width="350" />](https://www.youtube.com/watch?v=8SbUC-UaAxE&ab_channel=GunsNRosesVEVO)
+[<img src="https://revistapym.com.co/wp-content/uploads/2016/11/guns_and_roses_historia_logo.png" alt="Guns N' Roses - November Rain Playing" width="350" />](https://www.youtube.com/watch?v=aWmkuH1k7uA&ab_channel=NirvanaVEVO)
 
 
 ### Connect with me:
