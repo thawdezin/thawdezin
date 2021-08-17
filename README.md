@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 ## I'm Mobile Developer.
 
 - 🔭 I'm currently working on no project. 😢
-- 🌱 I’m currently learning Flutter and Swift. 🐣🔰🍼
+- 🌱 I’m currently learning Swift. 🐣🔰🍼
 - 🤔 I’m looking for help about Future Life. ☸️✝️☪️
-- 📫 How to reach me: (+95)9-953-172-742
+- 📫 How to reach me: (+95)9-797-990-911
 - ⚡ Fun fact: I love C++ 😂😂😂
 - 🥅 2021 Goals: Do you wanna know?
 
