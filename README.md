@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help about Future Life. ☸️✝️☪️
 - 📫 How to reach me: (+95)9-797-990-911
 - ⚡ Fun fact: I love C++ 😂😂😂
-- 🥅 2021 Goals: Do you wanna know?
+- 🥅 2022 Goals: Do you wanna know?
 
 ### Check My Apps 🔬🧪🧫
 
