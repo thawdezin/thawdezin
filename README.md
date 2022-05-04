@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 ## I'm Mobile Developer.
 
 - 🔭 I'm currently working on no project. 😢
-- 🌱 I’m currently learning Swift. 🐣🔰🍼
+- 🌱 I’m currently learning Swift and Svelte. 🐣🔰🍼
 - 🤔 I’m looking for help about Future Life. ☸️✝️☪️
 - 📫 How to reach me: (+95)9-797-990-911
 - ⚡ Fun fact: I love C++ 😂😂😂
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### Now Playing 🎧
 
-[<img src="https://revistapym.com.co/wp-content/uploads/2016/11/guns_and_roses_historia_logo.png" alt="Guns N' Roses - November Rain Playing" width="350" />](https://www.youtube.com/watch?v=aWmkuH1k7uA&ab_channel=NirvanaVEVO)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNFL-W81Cjk2uo-W91DJFyRBslCEqi7O2KiQ&usqp=CAU" alt="My Current Favorite Music Playing" width="350" />](https://www.youtube.com/watch?v=9E328pIZWFM)
 
 
 ### Connect with me:
@@ -33,6 +33,11 @@ Here are some ideas to get you started:
 [<img align="left" alt="Thaw De Zin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Thaw De Zin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Thaw De Zin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+
+### Check my work:
+[<img align="left" alt="Thaw De Zin | Svelte" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhynxnKqXytdWCo28CQpPOpnV7FxaUmKGtLTL8GDAKU5E1cu_6y7VQI0LT1Em_y1nq1uU&usqp=CAU" />][svelte]
 
 <br />
 
@@ -48,3 +53,4 @@ Here are some ideas to get you started:
 [youtube]: https://www.youtube.com/channel/UCN0306tbhprpXRR36hUccOQ
 [instagram]: https://instagram.com/thawdezin
 [linkedin]: https://linkedin.com/in/thawdezin
+[svelte]: http://thawdezin.netlify.app
