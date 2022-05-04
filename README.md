@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <br />
 
 ### Check my work:
-[<img align="left" alt="Thaw De Zin | Svelte" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhynxnKqXytdWCo28CQpPOpnV7FxaUmKGtLTL8GDAKU5E1cu_6y7VQI0LT1Em_y1nq1uU&usqp=CAU" />][svelte]
+[<img align="left" alt="Thaw De Zin | Svelte" width="42px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--DuXb08hS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0bfv7q8e34q58aql75pb.png" />][svelte]
 
 <br />
 
