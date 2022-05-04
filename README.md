@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Thaw De Zin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Thaw De Zin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
+<br />
 
 ### Check my work:
 [<img align="left" alt="Thaw De Zin | Svelte" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhynxnKqXytdWCo28CQpPOpnV7FxaUmKGtLTL8GDAKU5E1cu_6y7VQI0LT1Em_y1nq1uU&usqp=CAU" />][svelte]
