@@ -10,10 +10,11 @@ Here are some ideas to get you started:
 
 ## I'm Mobile Developer.
 
-- 🔭 I'm currently working on no project. 😢
-- 🌱 I’m currently learning Swift and Svelte. 🐣🔰🍼
+- 🔭 I'm currently working on Myanmar Muslim Prayer App. 🤲🏻
+- 👨🏻‍💻 I'm currently working in Myanmar High Society. 🧄
+- 🌱 I’m currently learning Flutter and Svelte. 🐣🔰🍼
 - 🤔 I’m looking for help about Future Life. ☸️✝️☪️
-- 📫 How to reach me: (+95)9-797-990-911
+- 📫 How to reach me: (+95)9-797-990-910
 - ⚡ Fun fact: I love C++ 😂😂😂
 - 🥅 2022 Goals: Do you wanna know?
 
