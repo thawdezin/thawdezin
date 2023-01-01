@@ -10,13 +10,13 @@ Here are some ideas to get you started:
 
 ## I'm Mobile Developer.
 
-- 🔭 I'm currently working on Revie App. 🤲🏻
+- 🔭 I'm currently working on Scraping tool. 🤲🏻
 - 👨🏻‍💻 I'm currently working in iMyanmarHouse. 🧄
 - 🌱 I’m currently learning React and React Native. 🐣🔰🍼
 - 🤔 I’m looking for help about Future Life. ☸️✝️☪️
 - 📫 How to reach me: (+95)9-797-990-91*
 - ⚡ Fun fact: I love C++ 😂😂😂
-- 🥅 2022 Goals: Do you wanna know?
+- 🥅 2023 Goals: Do you wanna know?
 
 ### Check My Apps 🔬🧪🧫
 
