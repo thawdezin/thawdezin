@@ -10,11 +10,11 @@ Here are some ideas to get you started:
 
 ## I'm Mobile Developer.
 
-- 🔭 I'm currently working on Scraping tool. 🤲🏻
+- 🔭 I'm currently working on Ananke Project. 🤲🏻
 - 👨🏻‍💻 I'm currently working in iMyanmarHouse. 🧄
-- 🌱 I’m currently learning Golang and Rust. 🐣🔰🍼
+- 🌱 I’m currently learning Dart and Flutter. 🐣🔰🍼
 - 🤔 I’m looking for help about Future Life. ☸️✝️☪️
-- 📫 How to reach me: (+95)9-797-990-91*
+- 📫 How to reach me: thawdezin@proton.me
 - ⚡ Fun fact: I love C++ 😂😂😂
 - 🥅 2023 Goals: Do you wanna know?
 
