@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 👨🏻‍💻 I'm currently working in iMyanmarHouse. 🧄
 - 🌱 I’m currently learning Dart and Flutter. 🐣🔰🍼
 - 🤔 I’m looking for help about Future Life. ☸️✝️☪️
-- 📫 How to reach me: thawdezin@proton.me
+- 📫 How to reach me: thawdezin@duck.com
 - ⚡ Fun fact: I love C++ 😂😂😂
 - 🥅 2023 Goals: Do you wanna know?
 
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 [website]: https://thawdezin.github.io/
 [twitter]: https://twitter.com/thawdezin25
-[youtube]: https://www.youtube.com/channel/UCN0306tbhprpXRR36hUccOQ
+[youtube]: https://www.youtube.com/@thawdezin
 [instagram]: https://instagram.com/thawdezin
 [linkedin]: https://linkedin.com/in/thawdezin
 [svelte]: http://thawdezin.netlify.app
