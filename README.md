@@ -8,44 +8,44 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm [Thaw De Zin][website] 👋
 
-## I'm Mobile Developer.
+## About Me
 
-- 🔭 I'm currently working on Ananke Project. 🤲🏻
-- 👨🏻‍💻 I'm currently working in iMyanmarHouse. 🧄
-- 🌱 I’m currently learning Dart and Flutter. 🐣🔰🍼
-- 🤔 I’m looking for help about Future Life. ☸️✝️☪️
-- 📫 How to reach me: thawdezin@duck.com
-- ⚡ Fun fact: I love C++ 😂😂😂
-- 🥅 2023 Goals: Do you wanna know?
+I'm a passionate Mobile Developer currently diving into the world of Dart and Flutter. At present, I'm working on the **Lan Pya Taryar Project** and contributing my skills to **Brycen Myanmar**. 
 
-### Check My Apps 🔬🧪🧫
+- 🌱 I’m expanding my knowledge in Dart and Flutter.
+- 🤔 I'm exploring new insights into the **Unseen**.
+- ⚡ Fun fact: I have a deep affection for **Burmaland**!
 
-[<img src="https://www.gstatic.com/android/market_images/web/play_prism_hlock_2x.png" alt="My Apps" width="350" />](https://play.google.com/store/apps/dev?id=8808427107519078047)
+## 📚 Current Projects
 
-### Now Playing 🎧
+- **Lan Pya Taryar Project**: A comprehensive mobile application dedicated to enhancing the spiritual journey of Burmese Catholic.
 
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNFL-W81Cjk2uo-W91DJFyRBslCEqi7O2KiQ&usqp=CAU" alt="My Current Favorite Music Playing" width="350" />](https://www.youtube.com/watch?v=9E328pIZWFM)
+## 🎯 2024 Goals
 
+Curious about what’s next? Feel free to ask!
 
-### Connect with me:
+## 🎵 Now Playing
 
-[<img align="left" alt="Website" width="22px" src="https://github.com/thawdezin/thawdezin/blob/main/img/web-link.png" />][website]
-[<img align="left" alt="Thaw De Zin | YouTube" width="22px" src="https://github.com/thawdezin/thawdezin/blob/main/img/youtube.png" />][youtube]
-[<img align="left" alt="Thaw De Zin | Twitter" width="22px" src="https://github.com/thawdezin/thawdezin/blob/main/img/twitter.png" />][twitter]
-[<img align="left" alt="Thaw De Zin | LinkedIn" width="22px" src="https://github.com/thawdezin/thawdezin/blob/main/img/linkedin.png" />][linkedin]
-[<img align="left" alt="Thaw De Zin | Instagram" width="22px" src="https://github.com/thawdezin/thawdezin/blob/main/img/instagram.png" />][instagram]
+[![Current Favorite Music](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNFL-W81Cjk2uo-W91DJFyRBslCEqi7O2KiQ&usqp=CAU)](https://www.youtube.com/watch?v=9E328pIZWFM)
 
-<br />
+## 🌐 Connect with Me
 
-### Check my work:
-[<img align="left" alt="Thaw De Zin | Svelte" width="100px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--DuXb08hS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0bfv7q8e34q58aql75pb.png" />][svelte]
+- [Website][website]
+- [YouTube][youtube]
+- [Twitter][twitter]
+- [LinkedIn][linkedin]
+- [Instagram][instagram]
 
-<br />
+## 🔍 Check Out My Work
+
+[![Svelte Projects](https://res.cloudinary.com/practicaldev/image/fetch/s--DuXb08hS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0bfv7q8e34q58aql75pb.png)](http://thawdezin.netlify.app)
+
+## 📊 GitHub Stats
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>Click to expand</summary>
 
-  <img align="left" alt="Thaw De Zin's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=thawdezin&show_icons=true&hide_border=true" />
+  ![GitHub Stats](https://github-readme-stats.codestackr.vercel.app/api?username=thawdezin&show_icons=true&hide_border=true)
 
 </details>
 
@@ -54,4 +54,3 @@ Here are some ideas to get you started:
 [youtube]: https://www.youtube.com/@thawdezin
 [instagram]: https://instagram.com/thawdezin
 [linkedin]: https://linkedin.com/in/thawdezin
-[svelte]: http://thawdezin.netlify.app
