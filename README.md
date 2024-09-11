@@ -38,7 +38,7 @@ Curious about what’s next? Feel free to ask!
 
 ## 🔍 Check Out My Work
 
-[![Svelte Projects](https://res.cloudinary.com/practicaldev/image/fetch/s--DuXb08hS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0bfv7q8e34q58aql75pb.png)](http://thawdezin.netlify.app)
+[![Svelte Projects](https://res.cloudinary.com/practicaldev/image/fetch/s--DuXb08hS--/c_imagga_scale,f_auto,fl_progressive,h_210,q_auto,w_500/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0bfv7q8e34q58aql75pb.png)](http://thawdezin.netlify.app)
 
 ## 📊 GitHub Stats
 
