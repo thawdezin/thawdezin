@@ -45,7 +45,7 @@ I’m a **crypto enthusiast and blockchain advocate**, building innovative solut
 
 ## 🎧 Now Playing
 
-[![Current Favorite Music](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNFL-W81Cjk2uo-W91DJFyRBslCEqi7O2KiQ&usqp=CAU "Thaw De Zin resting to music")]()
+[![Current Favorite Music](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNFL-W81Cjk2uo-W91DJFyRBslCEqi7O2KiQ&usqp=CAU)](https://www.youtube.com/watch?v=9E328pIZWFM)
 
 ## 📡 Connect with Me
 
